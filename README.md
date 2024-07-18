@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,vscode,github,git,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,vscode,github,git,c,cpp,pytorch" />
     <img src="https://skillicons.dev/icons?i=flask,bootstrap,mongodb,html,css,selenium,windows,apple,linux,raspberrypi" /><br>
 </div>
 
