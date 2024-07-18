@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **dynamic sign language recognisation system**
+ 🔭 I’m currently working on **wce image super resolution**
  
- 🌱 I’m currently learning **Gen AI, LLMs, LSTM**
+ 🌱 I’m currently learning **GAN, Vision Transformers**
 
 💬 Ask me about **Deep Learning, Machine Learning, TensorFlow... or anything [here](https://github.com/Jay042003/Jay042003/issues)**
 
